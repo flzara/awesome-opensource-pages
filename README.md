@@ -1,7 +1,7 @@
 # awesome-opensource-pages
 Awesome Open Source pages made by companies
 
-- [Open Source at Bosch](https://opensource.bosch.com/)
+- [Open Source at Bosch](https://opensource.bosch.com/) - [Manifesto](https://opensource.bosch.com/manifesto/)
 - [FOSS@Porsche](https://opensource.porsche.com/) - [GitHub](https://github.com/porscheofficial)
 - [Mercedes-Benz Open Source](https://opensource.mercedes-benz.com/) - [GitHub](https://github.com/mercedes-benz) - [Manifesto](https://opensource.mercedes-benz.com/manifesto/)
 - [OpenSource @ RenaultGroup](https://opensource.renaultgroup.com/) - [GitLab](https://gitlab.com/grouperenault)
