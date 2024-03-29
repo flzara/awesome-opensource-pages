@@ -6,6 +6,7 @@ Awesome Open Source pages made by companies
 - [FOSS@Porsche](https://opensource.porsche.com/) - [GitHub](https://github.com/porscheofficial)
 - [Mercedes-Benz Open Source](https://opensource.mercedes-benz.com/) - [GitHub](https://github.com/mercedes-benz) - [Manifesto](https://opensource.mercedes-benz.com/manifesto/)
 - [OpenSource @ RenaultGroup](https://opensource.renaultgroup.com/) - [GitLab](https://gitlab.com/grouperenault)
+- Continental's [Manifesto](https://cdn.continental.com/fileadmin/__imported/sites/corporate/_international/english/hubpages/10_20press/01_press_releases/10_20ces/2023/202301_continental_foss_manifesto.pdf)
 - BMW Car IT GmbH's [GitHub](https://github.com/bmwcarit)
 - GM - [GitHub](https://github.com/generalmotors)
 - Scania's [GitHub](https://github.com/scania)
