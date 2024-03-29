@@ -31,4 +31,15 @@ Awesome Open Source pages made by companies
 - [open.intel](https://www.intel.com/content/www/us/en/developer/topic-technology/open/overview.html) - [GitHub](https://github.com/intel)
 - [Alliander and open source](https://www.alliander.com/en/open-source/projects/)
 - [Open Source @ Deutsche Bahn](https://opensource.deutschebahn.com/opensource-en) - [Manifesto](https://opensource.deutschebahn.com/opensource-en) - [GitHub](https://github.com/dbsystel)
-- 
+- [Ericsson Open Source](https://www.ericsson.com/en/open-source) - [GitHub](https://github.com/Ericsson)
+- [Comcast Open Source](https://comcast.github.io/) - [GitHub](https://github.com/Comcast)
+- Here Maps' [GitHub](https://github.com/heremaps)
+- [Spotify ❤’s Open Source](https://spotify.github.io/) - [GitHub](https://github.com/spotify)
+- [Tomtom Open Source](https://opensource.tomtom.com/) - [GitHub](https://github.com/tomtom-international)
+- [Western Digital Open Source](https://www.westerndigital.com/company/innovation/open-source) - GitHub
+- [Uber Open Source](https://uber.github.io/) - [Manifesto](https://uber.github.io/#/principles) - [GitHub](https://github.com/uber)
+- Scania's [GitHub](https://github.com/scania)
+- [Meta Open Source](https://opensource.fb.com/) - [GitHub](https://github.com/facebook)
+- [Nokia Open Source](https://www.nokia.com/networks/opensource/) - [GitHub](https://github.com/nokia/)
+- Walmart's [GitHub](https://github.com/walmartlabs)
+- [Sony Open Source](https://developer.sony.com/open-source) - [GitHub](https://github.com/sony) - [Licenses obligation website](https://oss.sony.net/Products/Linux/common/search.html)
