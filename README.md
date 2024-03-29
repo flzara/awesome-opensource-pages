@@ -5,6 +5,7 @@ Awesome Open Source pages made by companies
 - [FOSS@Porsche](https://opensource.porsche.com/) - [GitHub](https://github.com/porscheofficial)
 - [Mercedes-Benz Open Source](https://opensource.mercedes-benz.com/) - [GitHub](https://github.com/mercedes-benz) - [Manifesto](https://opensource.mercedes-benz.com/manifesto/)
 - [OpenSource @ RenaultGroup](https://opensource.renaultgroup.com/) - [GitLab](https://gitlab.com/grouperenault)
+- BMW Car IT GmbH's [GitHub](https://github.com/bmwcarit)
 - [Orange Open Source](https://opensource.orange.com/en/open-source-orange/) - [GitHub](https://github.com/Orange-OpenSource)
 - [Google Open Source](https://opensource.google/)
 - [SAP Open Source](https://pages.community.sap.com/topics/open-source)
@@ -27,3 +28,7 @@ Awesome Open Source pages made by companies
 - [Netflix Open Source Software Center](https://netflix.github.io/) - [GitHub](https://github.com/Netflix)
 - [CFPB Open Tech](https://cfpb.github.io/) (Consumer Financial Protection Bureau) - [GitHub](https://github.com/cfpb)
 - [Adobe Open Source](https://opensource.adobe.com/) - [GitHub](https://github.com/adobe)
+- [open.intel](https://www.intel.com/content/www/us/en/developer/topic-technology/open/overview.html) - [GitHub](https://github.com/intel)
+- [Alliander and open source](https://www.alliander.com/en/open-source/projects/)
+- [Open Source @ Deutsche Bahn](https://opensource.deutschebahn.com/opensource-en) - [Manifesto](https://opensource.deutschebahn.com/opensource-en) - [GitHub](https://github.com/dbsystel)
+- 
